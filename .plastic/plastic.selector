@@ -1,0 +1,3 @@
+rep "Walking Stick Country@OnCountry@cloud"
+  path "/"
+    smartbranch "/main"
